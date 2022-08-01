@@ -1,0 +1,1 @@
+index.php is the main page of the application.
